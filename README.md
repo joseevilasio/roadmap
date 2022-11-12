@@ -4,9 +4,10 @@
 A ideia é ter mapeado sobre a stack principal
 
 ## Hard Skil
+Tecnologias que tenho mapeadas para estudos
 
 ## Soft Skil
 
-Acompanhamento dos meus estudos, desenvolvimentos e anseios na area de programação. 
+Tecnologias relacioados a comportamento, organização e produtividade. 
 
 ## Referências
