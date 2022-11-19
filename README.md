@@ -1,7 +1,7 @@
-# Roadmap
+# Roadmap stack Python
 
 ## Objetivo
-Com os pontos mapeados de hard e soft skills tecnologicas para entrada do mercado, como estou em transisção de carreia é essencial
+Com os pontos mapeados de hard/soft skills tecnologicas para entrada do mercado, como estou em transisção de carreia é essencial
 para ter foco e saber qual o caminho percorrer.
 
 ## Hard Skil
