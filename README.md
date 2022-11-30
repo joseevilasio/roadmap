@@ -18,3 +18,6 @@ Tecnologias relacioados a comportamento, organização e produtividade.
  > Kaban
 
 ## Referências
+
+Linux Tips
+Luciano Ramalho
