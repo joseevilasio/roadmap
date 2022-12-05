@@ -21,3 +21,4 @@ Tecnologias relacioados a comportamento, organização e produtividade.
 
 Linux Tips
 Luciano Ramalho
+Bruno Rocha
