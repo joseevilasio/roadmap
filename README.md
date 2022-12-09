@@ -1,10 +1,10 @@
-# Roadmap stack Python
+# Roadmap
 
 ## Objetivo
 É fundamental traçar uma estratégia para desenvolvimento pessoal e profissional, com o roadmap quero deixar claros as habilidades que quero alcançar profissionalmente. Com os pontos mapeados de hard/soft skills tecnologicas para entrada do mercado, como estou em transisção de carreia é essencial
 para ter foco e saber qual o caminho percorrer.
 
-Para suporte das atividades tenho um notion que deixei público de como organizo os estudos.
+Para suporte das atividades tenho um notion <link> que deixei público de como organizo os estudos
 
 ## Hard Skil
 Stack de estudo principal é a linguagem python
@@ -13,11 +13,25 @@ Stack de estudo principal é a linguagem python
 > Funções
 > Classes
 
+Sql
+>
+>
+>
+Kubernetes
+Docker
+Linux
+
+
 ## Soft Skil
 
 Tecnologias relacioados a comportamento, organização e produtividade.
 >Agility
  > Kaban
+ > Scrum
+>Comunicação
+
+
+Para aprimoramento sempre é importante ter base teoricas, aqui deixo listado Livros
 
 ## Referências
 
