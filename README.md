@@ -15,7 +15,7 @@ para ter foco e saber qual o caminho percorrer. Lembrando que não existe formas
 ## Hard Skil 🧰
 Stack de estudo principal é a linguagem python 🐍
 
-:Python:
+**Python**
 > Fundamentos base,
 > Estrutura de dados,
 > Funções,
@@ -23,20 +23,20 @@ Stack de estudo principal é a linguagem python 🐍
 > Orientação a Objetos,
 > Classes
 
-:Framework:
+**Framework**
 > Django,
 > FastAPI
 
-:SQL:
+**SQL**
 > Fundamentos
 
-:Git/Github:
+**Git/Github**
 > Fundamentos
 
-:Docker:
+**Docker**
 > Fundamentos
 
-:Linux:
+**Linux**
 > Fundamentos,
 > Linha de comando
 
@@ -45,18 +45,46 @@ Stack de estudo principal é a linguagem python 🐍
 
 Tecnologias relacioados a comportamento, organização e produtividade.
 
-:Bunisses Agility:
+**Bunisses Agility**
 > Gestão Ágil,
 > Kaban, Scrum
 
-:Quality Assurance:
+**Quality Assurance**
 > Fundamentos
 
 
 ## Lista de Leitura
 Para aprimoramento sempre é importante ter base teoricas, aqui deixo listado Livros:
 
+https://penseallen.github.io/PensePython2e/
 
 ## Exercícios
 É importante praticar, segue alguns sites onde é possível práticar desde o básico até o avançado:
 
+https://exercism.org/ </p>
+https://wiki.python.org.br/ListaDeExercicios </p>
+https://www.w3schools.com/python/python_exercises.asp </p>
+https://www.hackerrank.com/dashboard </p>
+https://www.beecrowd.com.br/judge </p>
+
+## Sites e Plataformas
+Para acompanhar o mundo tech, plataformas de ensino e tutoriais:
+
+https://www.edx.org/learn/python </p>
+https://www.alura.com.br </p>
+https://www.dio.me/ </p>
+https://realpython.com </p>
+https://www.linuxtips.io </p>
+
+
+## Comunidade
+Igual a felicidade, só é verdadeira se compartilhada, o conhecimento da mesma forma:
+
+https://t.me/CafeinaVagasChat </p>
+https://t.me/Python </p>
+https://t.me/djangobrasil </p>
+https://t.me/cursopythonselenium </p>
+https://t.me/pythonbrasil </p>
+https://t.me/pythonbr </p>
+
+🖖
