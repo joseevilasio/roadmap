@@ -41,7 +41,7 @@ Stack de estudo principal é a linguagem python 🐍
 > Linha de comando
 
 
-## Soft Skil
+## Soft Skil ✨
 
 Tecnologias relacioados a comportamento, organização e produtividade.
 
@@ -53,12 +53,13 @@ Tecnologias relacioados a comportamento, organização e produtividade.
 > Fundamentos
 
 
-## Lista de Leitura
+## Lista de Leitura 📚
 Para aprimoramento sempre é importante ter base teoricas, aqui deixo listado Livros:
 
-https://penseallen.github.io/PensePython2e/
+https://penseallen.github.io/PensePython2e/ </p>
+Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes </p>
 
-## Exercícios
+## Exercícios ✔️
 É importante praticar, segue alguns sites onde é possível práticar desde o básico até o avançado:
 
 https://exercism.org/ </p>
@@ -67,7 +68,7 @@ https://www.w3schools.com/python/python_exercises.asp </p>
 https://www.hackerrank.com/dashboard </p>
 https://www.beecrowd.com.br/judge </p>
 
-## Sites e Plataformas
+## Sites e Plataformas 🔗
 Para acompanhar o mundo tech, plataformas de ensino e tutoriais:
 
 https://www.edx.org/learn/python </p>
@@ -77,7 +78,7 @@ https://realpython.com </p>
 https://www.linuxtips.io </p>
 
 
-## Comunidade
+## Comunidade 💡
 Igual a felicidade, só é verdadeira se compartilhada, o conhecimento da mesma forma:
 
 https://t.me/CafeinaVagasChat </p>
