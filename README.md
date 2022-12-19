@@ -76,6 +76,7 @@ https://www.alura.com.br </p>
 https://www.dio.me/ </p>
 https://realpython.com </p>
 https://www.linuxtips.io </p>
+https://www.youtube.com/@CursoemVideo </p>
 
 
 ## Comunidade 💡
