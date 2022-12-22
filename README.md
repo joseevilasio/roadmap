@@ -26,6 +26,7 @@ Stack de estudo principal é a linguagem python 🐍
 **Framework**
 > Django,
 > FastAPI
+> Flask
 
 **SQL**
 > Fundamentos
